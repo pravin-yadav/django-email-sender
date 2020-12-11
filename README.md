@@ -19,3 +19,12 @@ In the project directory, you can run:
 - `pipenv install`
 
 to install the required dependency.
+
+### To Run The project
+
+- Edit `settings.py` file
+
+- Update ` Configure senders Email and Password`
+
+`EMAI_HOST_USER = "Your Email"` 
+`EMAIL_HOST_PASSWORD = "Your Password"`
