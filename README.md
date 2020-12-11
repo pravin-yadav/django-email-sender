@@ -14,8 +14,8 @@ This is a simple Django project to send emails to the recipient using send_mail 
 
 In the project directory, you can run:
 
-### `pipenv shell`
+- `pipenv shell`
 
-### `pipenv install`
+- `pipenv install`
 
 to install the required dependency.
