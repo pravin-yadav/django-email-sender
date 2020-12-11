@@ -22,9 +22,8 @@ to install the required dependency.
 
 ### To Run The project
 
-- Edit `settings.py` file
+- Edit `settings.py` file and update the following
 
-- Update ` Configure senders Email and Password`
+ `EMAI_HOST_USER = "Your Email"`
 
-`EMAI_HOST_USER = "Your Email"` 
-`EMAIL_HOST_PASSWORD = "Your Password"`
+ `EMAIL_HOST_PASSWORD = "Your Password"`
