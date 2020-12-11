@@ -20,10 +20,16 @@ In the project directory, you can run:
 
 to install the required dependency.
 
-### To Run The project
+### To Run The Project
 
 - Edit `settings.py` file and update the following
 
  `EMAI_HOST_USER = "Your Email"`
 
  `EMAIL_HOST_PASSWORD = "Your Password"`
+
+- To Run The Project on Localhost
+
+ `./manage.py runserver`
+
+- Open the browser on `http://127.0.0.1:8000/`
